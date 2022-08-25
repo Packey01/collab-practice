@@ -1,0 +1,8 @@
+.left, .right {
+    border: 2px solid;
+}
+
+.bg-lightgrey {
+    background-color: lightgrey;
+}
+
